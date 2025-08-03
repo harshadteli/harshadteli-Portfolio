@@ -37,7 +37,7 @@ Welcome to the official developer portfolio of **Harshad Teli**, built using HTM
 
 ## 🖥️ Live Demo
 
-[![Live](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel)](https://harshadteli.github.io/harshadteli-portfolio/)
+[![Live](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel)](https://harshadteli.github.io/harshadteli-Portfolio/)
 
 
 ## 📬feedback Form 
@@ -68,3 +68,4 @@ Harshad Teli
 
 
 ---
+
